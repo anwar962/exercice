@@ -2,3 +2,12 @@
 #include <stdlib.h>
 
 int main(){
+
+printf(entrez )
+
+
+
+
+
+
+}
