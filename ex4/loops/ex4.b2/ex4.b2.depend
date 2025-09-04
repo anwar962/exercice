@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756992004 source:c:\day2\ex4\loops\ex4.b2\main.c
+	<stdio.h>
+	<stdlib.h>
+
