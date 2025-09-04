@@ -5,7 +5,7 @@ int main()
 {
 int N;
 int inverse;
-printf("veuillez saisi un nombre");
+printf("veuillez saisi un nombre:");
 scanf("%d",&N);
 do{
     inverse=(inverse*10)+(N%10);
